@@ -1,0 +1,19 @@
+{
+  "name": "three-controls-orbit",
+  "version": "1.0.0",
+  "description": "Module version of threejs orbit controls library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augle-me/three-controls-orbit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augle-me/three-controls-orbit/issues"
+  },
+  "homepage": "https://github.com/augle-me/three-controls-orbit#readme"
+}
